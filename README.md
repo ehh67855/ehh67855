@@ -33,16 +33,20 @@
 - <a href = "https://github.com/ehh67855/Command-Line-Average-Calculator">Command Line Average Calculator</a>
 - <a href = "https://github.com/ehh67855/Bubble-Sort-Tester">Bubble Sort Tester</a>
 - <a href = "https://github.com/ehh67855/Hamming-Distance">Hamming Distance</a>
-<br>
+
 # Full Stack Development:
-**Frontend:** HTML, CSS, Javascript, ReactJS, VisJS
-**Backend:** Java, Spring, NodeJs, SQL, MongoDB
+- **Frontend:** HTML, CSS, Javascript, ReactJS, VisJS
+- **Backend:** Java, Spring, NodeJs, SQL, MongoDB
 
 ### Relevent Courses
 **Web Programming - Software Development - Software Engineering**
+- <a href = "https://github.com/ExtraneousFalcon/GymBuddies">Gym Buddies</a>
+- <a href = "https://github.com/ehh67855/TaskFlow">Task Flow</a>
+- <a href = "https://github.com/ehh67855/debug-thugs">File Difference Finder</a>
 
-https://github.com/ExtraneousFalcon/GymBuddies
+# Java Programming
 
+# Data Strucutures and algorithms
 
 
 
