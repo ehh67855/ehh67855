@@ -7,7 +7,9 @@
 
 - Student at the University of Georgia
 - Pursuing: BS Computer Science, Minor Mathmatics, MS Artifical Intelligence
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.dropbox.com/scl/fi/r1inchkexyt646r3a2hos/Evan-Hammam_Resume-1-17-2024.pdf?rlkey=ty2nr1b4916s1gexpjkouxied&dl=0](https://www.dropbox.com/scl/fi/r1inchkexyt646r3a2hos/Evan-Hammam_Resume-1-17-2024.pdf?rlkey=ty2nr1b4916s1gexpjkouxied&dl=0)https://www.dropbox.com/scl/fi/r1inchkexyt646r3a2hos/Evan-Hammam_Resume-1-17-2024.pdf?rlkey=ty2nr1b4916s1gexpjkouxied&dl=0)
+- Currently working as an Assistant for Systems Programming courses at UGA
+- Member of data team at the UGA Small Satellite Research lab, working with computer vision techniques
+- I’m open for an Intern or a new job opportunity, this is [my resume](https://www.dropbox.com/scl/fi/r1inchkexyt646r3a2hos/Evan-Hammam_Resume-1-17-2024.pdf?rlkey=ty2nr1b4916s1gexpjkouxied&dl=0](https://www.dropbox.com/scl/fi/r1inchkexyt646r3a2hos/Evan-Hammam_Resume-1-17-2024.pdf?rlkey=ty2nr1b4916s1gexpjkouxied&dl=0)https://www.dropbox.com/scl/fi/r1inchkexyt646r3a2hos/Evan-Hammam_Resume-1-17-2024.pdf?rlkey=ty2nr1b4916s1gexpjkouxied&dl=0)
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehh67855&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
