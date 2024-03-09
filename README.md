@@ -1,6 +1,6 @@
 <h1 align="center"><b></b>Evan Hammam</b></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Engineer;Full+Stack+Developer;Web+Development;Go-Dawgs;Systems+Programming..<3"></a>
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Engineer;Full+Stack+Developer;Web+Development;Go-Dawgs;Systems+Programming..<3"></a> -->
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -11,6 +11,23 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehh67855&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+# Copmuter Vision:
+- <a href = "https://github.com/ehh67855/Sterio-Vision">Sterio Vision</a>
+
+# Full Stack Development:
+- **Frontend:** HTML, CSS, Javascript, ReactJS, VisJS
+- **Backend:** Java, Spring, NodeJs, SQL, MongoDB
+
+### Relevent Courses
+**Web Programming - Software Development - Software Engineering**
+- <a href = "https://github.com/ExtraneousFalcon/GymBuddies">Gym Buddies</a>
+- <a href = "https://github.com/ehh67855/TaskFlow">Task Flow</a>
+- <a href = "https://github.com/ehh67855/debug-thugs">Uga Study Spots</a>
+
+
+# Data Strucutures and algorithms
+
+# Java Programming
 
 # Systems Programming:
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -33,21 +50,6 @@
 - <a href = "https://github.com/ehh67855/Command-Line-Average-Calculator">Command Line Average Calculator</a>
 - <a href = "https://github.com/ehh67855/Bubble-Sort-Tester">Bubble Sort Tester</a>
 - <a href = "https://github.com/ehh67855/Hamming-Distance">Hamming Distance</a>
-
-# Full Stack Development:
-- **Frontend:** HTML, CSS, Javascript, ReactJS, VisJS
-- **Backend:** Java, Spring, NodeJs, SQL, MongoDB
-
-### Relevent Courses
-**Web Programming - Software Development - Software Engineering**
-- <a href = "https://github.com/ExtraneousFalcon/GymBuddies">Gym Buddies</a>
-- <a href = "https://github.com/ehh67855/TaskFlow">Task Flow</a>
-- <a href = "https://github.com/ehh67855/debug-thugs">File Difference Finder</a>
-
-# Java Programming
-
-# Data Strucutures and algorithms
-
 
 
 
