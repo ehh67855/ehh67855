@@ -10,8 +10,6 @@
 - Currently working as an Assistant for Systems Programming courses at UGA
 - Member of data team at the UGA Small Satellite Research lab, working with computer vision techniques
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehh67855&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 # Notable projects
 
 ## Computer vision research
