@@ -1,47 +1,58 @@
-<h1 align="center"><b></b>Evan Hammam</b></h1>
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Engineer;Full+Stack+Developer;Web+Development;Go-Dawgs;Systems+Programming..<3"></a> -->
-</p>
+# 🌟 Welcome to My GitHub Profile! 🌟
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+![Header Image or Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
-- Third-year student at the University of Georgia
-- Pursuing: BS Computer Science, Minor Mathmatics, MS Artifical Intelligence
-- Currently working as an Assistant for Systems Programming courses at UGA
-- Member of data team at the UGA Small Satellite Research lab, working with computer vision techniques
+Hi there! 👋 I'm **Evan Hammam**, a **fourth-year Computer Science and Math student** passionate about building innovative solutions, exploring machine learning, and diving into web development. Explore my repositories to see what I’ve been working on! 🚀
 
-# Notable projects
+---
 
-## Computer vision research
-- <a href = "https://github.com/ehh67855/Sterio-Vision">Sterio Vision</a>
+## 🔭 Current Focus
+- 🌱 I’m currently learning **TypeScript** and **Vim**.
+- 🤔 Exploring **Neural Radiance Fields (NeRFs)** and **Genetic Algorithms**.
+- 💡 Always on the lookout for exciting **AI and theoretical math** collaborations.
 
-## Full Stack Development:
-- **Frontend:** HTML, CSS, Javascript, ReactJS, VisJS
-- **Backend:** Java, Spring, NodeJs, SQL, MongoDB
+---
 
-### Relevent Courses
-**Web Programming - Software Development - Software Engineering**
-- <a href = "https://github.com/ehh67855/Cinema-Booking-Application">Cinema Booking Application</a>
-- <a href = "https://github.com/ehh67855/TaskFlow">Task Flow</a>
-- <a href = "https://github.com/ehh67855/debug-thugs">Uga Study Spots</a>
-- <a href = "https://github.com/ExtraneousFalcon/GymBuddies">Gym Buddies</a>
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
+---
 
-## Systems Programming:
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C++](https://img.shields.io/badge/MIPS-ASSEMBLY)
+## 🏆 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehh67855&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehh67855&layout=compact&theme=radical)
 
-### Relevent Courses
-**Systems Programming - Computer Architecture - Operating Systems**
+---
 
-### Programming Projects
-- <a href = "https://github.com/ehh67855/Web-Server-Threading">Web Server Threading</a>
-- <a href = "https://github.com/ehh67855/Multi-process-and-IPC-word-counter">IPC Word Counter</a>
-- <a href = "https://github.com/ehh67855/Compressing-and-Decompressing-DNA-Sequences">Compressing and Decompressing DNA Sequences</a>
-- <a href = "https://github.com/ehh67855/Connect-Four-Simulation">Connect Four Simulation</a>
-- <a href = "https://github.com/ehh67855/Target-Value-Expression-Finder">Target Value Expression Finder</a>
+## 📚 Featured Projects
+### 🚀 [Practice Routine Optimization Tool](https://github.com/ehh67855/practice-routine-optimization)
+A web app for musicians to optimize practice routines, featuring dynamic graphing and task optimization using Dijkstra's and Knapsack algorithms.  
+**Tech Stack:** React, TypeScript, Spring Boot, vis.js  
+[![GitHub stars](https://img.shields.io/github/stars/ehh67855/practice-routine-optimization)](https://github.com/ehh67855/practice-routine-optimization)
 
+### 🌟 [NeRF Hyperparameter Optimization](https://github.com/ehh67855/nerf-optimization)
+A Genetic Algorithm project to optimize hyperparameters for Neural Radiance Field (NeRF) models, enhancing accuracy and convergence speed.  
+**Tech Stack:** Python, DEAP, PyTorch  
+[![GitHub stars](https://img.shields.io/github/stars/ehh67855/nerf-optimization)](https://github.com/ehh67855/nerf-optimization)
 
+---
 
+## 🌐 Connect With Me
+- LinkedIn: [Evan Hammam](https://www.linkedin.com/in/evanhammam/)
+- Portfolio: [Evan's Website](https://yourwebsite.com/) *(Optional: Replace with actual link)*
+- Email: [evanhammam@example.com](mailto:evanhammam@example.com)
 
+---
+
+## ⚡ Fun Facts
+- 🔭 When I’m not coding, I’m probably playing guitar, hiking, or learning new math concepts.
+- 🎯 Personal mantra: "Strive for progress, not perfection."
+
+Thanks for visiting my GitHub! 😊 Feel free to explore and reach out for collaboration or just a friendly chat!
