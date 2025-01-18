@@ -1,58 +1,76 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+![Header Image or Banner](/github-header-image.png)
 
-![Header Image or Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
-
-Hi there! 👋 I'm **Evan Hammam**, a **fourth-year Computer Science and Math student** passionate about building innovative solutions, exploring machine learning, and diving into web development. Explore my repositories to see what I’ve been working on! 🚀
+My name is **Evan Hammam**. I am a **fourth-year Computer Science and Math student**. Click [here](www.example.com) to learn more about me. 
 
 ---
 
-## 🔭 Current Focus
-- 🌱 I’m currently learning **TypeScript** and **Vim**.
-- 🤔 Exploring **Neural Radiance Fields (NeRFs)** and **Genetic Algorithms**.
-- 💡 Always on the lookout for exciting **AI and theoretical math** collaborations.
-
+## Current Focus
+- I'm currently studying the field of machine learning and [Genetic Algorithms](https://github.com/ggChris2/neRF-EvolutionaryComputation). 
+- I am the lead the UGA [SSRL](https://smallsat.uga.edu/) data science team, where we investigate computer vision solutions to remote sensing.
 ---
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-
----
-
-## 🏆 GitHub Stats
+## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehh67855&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehh67855&layout=compact&theme=radical)
 
 ---
+## Featured Projects
 
-## 📚 Featured Projects
-### 🚀 [Practice Routine Optimization Tool](https://github.com/ehh67855/practice-routine-optimization)
+### Full Stack
+
+#### [Practice Routine Optimization Tool](https://github.com/ehh67855/practice-routine-optimization)
+
 A web app for musicians to optimize practice routines, featuring dynamic graphing and task optimization using Dijkstra's and Knapsack algorithms.  
 **Tech Stack:** React, TypeScript, Spring Boot, vis.js  
-[![GitHub stars](https://img.shields.io/github/stars/ehh67855/practice-routine-optimization)](https://github.com/ehh67855/practice-routine-optimization)
 
-### 🌟 [NeRF Hyperparameter Optimization](https://github.com/ehh67855/nerf-optimization)
-A Genetic Algorithm project to optimize hyperparameters for Neural Radiance Field (NeRF) models, enhancing accuracy and convergence speed.  
-**Tech Stack:** Python, DEAP, PyTorch  
-[![GitHub stars](https://img.shields.io/github/stars/ehh67855/nerf-optimization)](https://github.com/ehh67855/nerf-optimization)
+#### [Debug Thugs](https://github.com/Tomtom21/debug-thugs)
+
+A collaborative UGA study spot rating tool, similar to Yelp but tailored for study spots. Final project for CSCI 4300 Web Development.  
+**Tech Stack:** React, Node.js, MongoDB  
+[](https://github.com/Tomtom21/debug-thugs)
+
+#### [Cinema Booking Application](https://github.com/ehh67855/Cinema)
+
+A cinema e-booking app designed for movie theaters.  
+**Tech Stack:** React, Spring Boot, MySQL  
+[](https://github.com/ehh67855/Cinema)
 
 ---
 
-## 🌐 Connect With Me
-- LinkedIn: [Evan Hammam](https://www.linkedin.com/in/evanhammam/)
-- Portfolio: [Evan's Website](https://yourwebsite.com/) *(Optional: Replace with actual link)*
-- Email: [evanhammam@example.com](mailto:evanhammam@example.com)
+### Python
+
+#### [Stereo Vision](https://github.com/ehh67855/Sterio-Vision)
+
+Utilizes computer vision techniques to estimate depth information from stereo images, generating 3D point clouds.  
+**OpenCV**
+
+#### 🛰[NeRFSat](https://github.com/SmallSatelliteResearchLaboratoryUGA/nerfSat)
+
+Implements Neural Radiance Fields (NeRFs) to explore remote sensing applications for satellites. Part of the UGA undergraduate research program.  
+**PyTorch:** 
+
+#### [NeRF Hyperparameter Optimization](https://github.com/ehh67855/nerf-optimization)
+
+A Genetic Algorithm project to optimize hyperparameters for NeRF models, enhancing accuracy and convergence speed.  
+**DEAP:**
 
 ---
 
-## ⚡ Fun Facts
-- 🔭 When I’m not coding, I’m probably playing guitar, hiking, or learning new math concepts.
-- 🎯 Personal mantra: "Strive for progress, not perfection."
+### C/C++
 
-Thanks for visiting my GitHub! 😊 Feel free to explore and reach out for collaboration or just a friendly chat!
+#### [Multi-Threaded Web Server](https://github.com/ehh67855/Web-Server-Threading)
+
+Developed a high-performance, multithreaded web server in **C**, utilizing mutexes and semaphores for efficient thread synchronization.  
+
+#### [Multi-Process IPC Word Counter](https://github.com/ehh67855/Multi-process-and-IPC-word-counter)
+
+Designed a **C** program to perform word counts using multiple processes and inter-process communication (IPC), measuring performance with large files.  
+
+---
+
+## Connect With Me
+
+- LinkedIn: [[Evan Hammam](https://www.linkedin.com/in/evanhammam/)](https://www.linkedin.com/in/evan-hammam/)
+- Portfolio: [Evan's Website](https://yourwebsite.com/)
+- Email: [ehh67855@uga.edu](ehh67855@uga.edu)
+---
