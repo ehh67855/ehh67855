@@ -1,6 +1,6 @@
 ![Header Image or Banner](/github-header-image.png)
 
-My name is [here](www.example.com). I am a **fourth-year Computer Science and Math student**. 
+My name is [Evan Hammam](www.example.com). I am a **fourth-year Computer Science and Math student**. 
 
 ---
 ## Featured Projects
