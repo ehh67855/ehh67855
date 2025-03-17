@@ -1,12 +1,6 @@
 ![Header Image or Banner](/github-header-image.png)
 
-My name is **Evan Hammam**. I am a **fourth-year Computer Science and Math student**. Click [here](www.example.com) to learn more about me. 
-
----
-
-## Current Focus
-- I'm currently studying the field of machine learning and [Genetic Algorithms](https://github.com/ggChris2/neRF-EvolutionaryComputation). 
-- I am the lead the UGA [SSRL](https://smallsat.uga.edu/) data science team, where we investigate computer vision solutions to remote sensing.
+My name is [here](www.example.com). I am a **fourth-year Computer Science and Math student**. 
 
 ---
 ## Featured Projects
