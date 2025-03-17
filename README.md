@@ -59,7 +59,7 @@ Designed a **C** program to perform word counts using multiple processes and int
 
 ## Connect With Me
 
-- LinkedIn: [[Evan Hammam](https://www.linkedin.com/in/evanhammam/)](https://www.linkedin.com/in/evan-hammam/)
-- Portfolio: [Evan's Website](https://yourwebsite.com/)
-- Email: [ehh67855@uga.edu](ehh67855@uga.edu)
+- [LinkedIn](https://www.linkedin.com/in/evan-hammam/)
+- [Portfolio](https://yourwebsite.com/)
+- [Email](ehh67855@uga.edu)
 ---
