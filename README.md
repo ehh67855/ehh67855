@@ -7,11 +7,6 @@ My name is **Evan Hammam**. I am a **fourth-year Computer Science and Math stude
 ## Current Focus
 - I'm currently studying the field of machine learning and [Genetic Algorithms](https://github.com/ggChris2/neRF-EvolutionaryComputation). 
 - I am the lead the UGA [SSRL](https://smallsat.uga.edu/) data science team, where we investigate computer vision solutions to remote sensing.
----
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehh67855&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehh67855&layout=compact&theme=radical)
 
 ---
 ## Featured Projects
